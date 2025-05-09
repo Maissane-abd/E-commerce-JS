@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Stylo Bille Bleu",
+      "price": 1.5,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Carnet A5 100 pages",
+      "price": 3.2,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Agrafeuse Métallique",
+      "price": 7.5,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Boîte de 500 feuilles A4",
+      "price": 6.0,
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "name": "Crayons à papier (x12)",
+      "price": 2.0,
+      "stock": 80
+    },
+    {
+      "id": 6,
+      "name": "Surligneurs fluo (pack de 4)",
+      "price": 4.0,
+      "stock": 40
+    },
+    {
+      "id": 7,
+      "name": "Trousse en toile",
+      "price": 5.5,
+      "stock": 20
+    },
+    {
+      "id": 8,
+      "name": "Classeur rigide A4",
+      "price": 3.8,
+      "stock": 35
+    },
+    {
+      "id": 9,
+      "name": "Règle 30 cm transparente",
+      "price": 1.0,
+      "stock": 60
+    },
+    {
+      "id": 10,
+      "name": "Lot de 10 pochettes plastiques",
+      "price": 1.8,
+      "stock": 70
+    }
+  ]  
